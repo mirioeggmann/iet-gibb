@@ -1,4 +1,4 @@
-# Gibb Informatik 2014-2018
+# Gibb Computer Scientist 2014-2018
 
 ## Semester 1
 
