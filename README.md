@@ -1,4 +1,4 @@
-# Gibb 2014-2018
+# IET-gibb 2014 - 2018
 
 ## Generelle Informationen
 |   |  |
