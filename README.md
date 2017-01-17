@@ -37,6 +37,6 @@
 ## Semester 5
 
 - [Modul 306 - IT Kleinprojekt abwickeln ✔️](modul_306)
-- [Modul 326 - Objektorientiert analysieren und implementieren 🚧](modul_326)
+- [Modul 326 - Objektorientiert analysieren und implementieren ✔️](modul_326)
 - [Modul 213 - Teamverhalten entwickeln 🚧](modul_213)
-- [Modul 426 - Software mit agilen Methoden entwickeln 🚧](modul_426)
+- [Modul 426 - Software mit agilen Methoden entwickeln ✔️](modul_426)
