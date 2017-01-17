@@ -1,3 +1,3 @@
-Modul 306
+# Modul 306
 
-Our project -> [Gradus](https://github.com/mirioeggmann/gradus)
+Das erstellte Projekt von diesem Modul -> [Gradus](https://github.com/mirioeggmann/iet-gibb-gradus)
