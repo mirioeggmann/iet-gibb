@@ -40,3 +40,9 @@
 - [Modul 326 - Objektorientiert analysieren und implementieren ✔️](modul_326)
 - [Modul 213 - Teamverhalten entwickeln ✔️](modul_213)
 - [Modul 426 - Software mit agilen Methoden entwickeln ✔️](modul_426)
+
+## Semester 6
+
+- [Modul 152 - Multimedia-Inhalte in Webauftritt integrieren 🚧](modul_152)
+- [Modul 254 - Geschäftsprozesse beschreiben 🚧](modul_254)
+- [Modul 153 - Datenmodelle entwickeln 🚧](modul_153)
