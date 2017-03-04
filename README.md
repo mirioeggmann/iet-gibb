@@ -15,8 +15,8 @@
 
 ## Semester 2
 
-- [Modul 104 - Datenmodell erstellen und implementieren 🚧](modul_104)
-- [Modul 114 - Codes, Kompressions- und Verschlüsselungsverfahren einsetzen 🚧](modul_114)
+- [Modul 104 - Datenmodell erstellen und implementieren ✔️](modul_104)
+- [Modul 114 - Codes, Kompressions- und Verschlüsselungsverfahren einsetzen ✔️](modul_114)
 - [Modul 123 - Serverdienste in Betrieb nehmen 🚧](modul_123)
 - [Modul 404 - Objektbasiert programmieren nach Vorgabe 🚧](modul_404)
 
