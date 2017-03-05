@@ -9,7 +9,7 @@
 ## Semester 1
 
 - [Modul 100 - Daten charakterisieren, aufbereiten und auswerten 🚧](modul_100)
-- [Modul 117 - Informatik- und Netzinfrastruktur für kleines Unternehmen realisieren 🚧](modul_117)
+- [Modul 117 - Informatik- und Netzinfrastruktur für kleines Unternehmen realisieren ✔️](modul_117)
 - [Modul 403 - Programmabläufe prozedural implementieren 🚧](modul_403)
 - [Modul 431 - Aufträge im IT-Umfeld selbstständig durchführen 🚧](modul_431)
 
@@ -29,7 +29,7 @@
 
 ## Semester 4
 
-- [Modul 151 - Datenbanken in Internetauftritt einbinden 🚧](modul_151)
+- [Modul 151 - Datenbanken in Internetauftritt einbinden ✔️](modul_151)
 - [Modul 411 - Datenstrukturen und Algorihmen entwerfen und anwenden 🚧](modul_411)
 - [Modul 120 - Benutzerschnittstellen implementieren 🚧](modul_120)
 - [Modul 226-2 - Objektorientiert implementieren 🚧](modul_226-2)
