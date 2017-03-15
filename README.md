@@ -1,6 +1,9 @@
 # IET-gibb 2014 - 2018
 
+Bei Fragen oder falls z.B. eine Worddatei eines Dokumentes benötigt wird, schreibe mir eine Mail an: mirio.eggmann@protonmail.ch
+
 ## Generelle Informationen
+
 |   |  |
 |---|---|
 | Richtung | [Informatiker/in EFZ Applikationsentwicklung](https://www.ict-berufsbildung.ch/berufsbildung/informatikerin-efz-applikationsentwicklung/) |
