@@ -52,5 +52,5 @@ Bei Fragen oder falls z.B. eine Worddatei eines Dokumentes benötigt wird, schre
 
 ## Semester 7
 
-- [Modul 150 - E-Business-Applikationen anpassen](modul_150)
-- [Modul 183 - Applikationssicherheit implementieren](modul_183)
+- [Modul 150 - E-Business-Applikationen anpassen :hourglass_flowing_sand:](modul_150)
+- [Modul 183 - Applikationssicherheit implementieren :hourglass_flowing_sand:](modul_183)
