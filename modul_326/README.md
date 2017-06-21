@@ -1,3 +1,4 @@
 # Modul 326
 
-Die erstellte Network Teilkomponente vom Bomberman Projekt -> [iet-gibb-bomberman-network](https://github.com/mirioeggmann/iet-gibb-bomberman-network)
+## Weitere Modul 326 Projekte
+- [Modul-326-Labyrinth-Editor](https://github.com/severinkaderli/Modul-326-Labyrinth-Editor)
