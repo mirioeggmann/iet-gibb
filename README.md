@@ -46,9 +46,9 @@ Bei Fragen oder falls z.B. eine Worddatei eines Dokumentes benötigt wird, schre
 
 ## Semester 6
 
-- [Modul 152 - Multimedia-Inhalte in Webauftritt integrieren 🚧](modul_152)
-- [Modul 254 - Geschäftsprozesse beschreiben 🚧](modul_254)
-- [Modul 153 - Datenmodelle entwickeln 🚧](modul_153)
+- [Modul 152 - Multimedia-Inhalte in Webauftritt integrieren ✔️](modul_152)
+- [Modul 254 - Geschäftsprozesse beschreiben ✔️](modul_254)
+- [Modul 153 - Datenmodelle entwickeln ✔️](modul_153)
 
 ## Semester 7
 
