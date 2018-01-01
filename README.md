@@ -61,4 +61,4 @@ Bei Fragen oder falls z.B. eine Worddatei eines Dokumentes benötigt wird, schre
 - [Modul 183 - Applikationssicherheit implementieren :hourglass_flowing_sand:](modul_183)
 
 ## Weitere nützliche Links
-- [severinkaderli/gibb](https://github.com/severinkaderli/gibb/tree/master/Lehrjahr_3) - Ähnliches Repo, jedoch noch für die alte BIVO.
+- [severinkaderli/gibb](https://github.com/severinkaderli/gibb) - Ähnliches Repo, jedoch noch für die alte BIVO.
