@@ -54,7 +54,7 @@ Bei Fragen oder falls z.B. eine Worddatei eines Dokumentes benötigt wird, schre
 
 ### Semester 7
 
-- [Modul 150 - E-Business-Applikationen anpassen 🚧](modul_150)
+- [Modul 150 - E-Business-Applikationen anpassen ✔️](modul_150)
 
 ### Semester 8
 
