@@ -60,5 +60,7 @@ Bei Fragen oder falls z.B. eine Worddatei eines Dokumentes benötigt wird, schre
 
 - [Modul 183 - Applikationssicherheit implementieren :hourglass_flowing_sand:](modul_183)
 
-## Weitere nützliche Links
+## Weiteres
 - [severinkaderli/gibb](https://github.com/severinkaderli/gibb) - Ähnliches Repo, jedoch noch für die alte BIVO.
+- [Shocking Interview mitemne Gibb Schüeler 1](https://www.youtube.com/watch?v=Eh3nSx9V89s)
+- [Shocking Interview mitemne Gibb Schüeler 2](https://www.youtube.com/watch?v=nHUUKQZiJE0)
