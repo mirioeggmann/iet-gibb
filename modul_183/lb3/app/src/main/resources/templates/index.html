@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en"
+      xmlns:sec="http://www.w3.org/1999/xhtml" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Wasd</title>
+</head>
+<body>
+<div sec:authorize="isAnonymous()">
+    <button> <a th:href="@{/login}">Login</a></button>
+</div>
+<div sec:authorize="isAuthenticated()">
+    <button> <a th:href="@{/logout}">Logout</a></button>
+    <div>
+        <label>Params for ifconfig -...: ?sysout=a, ?sysout=l, ?sysout=v></span></label>
+    </div>
+    <div>
+        <label>CommandResult: <span th:text="${commandResult}"></span></label>
+    </div>
+</div>
+</body>
+</html>
